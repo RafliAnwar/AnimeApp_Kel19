@@ -1,4 +1,4 @@
-# modul3_kel19
+# Anime APP
 
 A new Flutter project.
 
